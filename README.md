@@ -1,10 +1,12 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projet Welcome Node - Trybe
+
+Esse projeto contempla o estudo sobre as dependências listadas abaixo:
+
+- Node.js
+- Express
+- API REST
+- Nodemon
+- Bibliotecas e Módulos Node
+- Github, entre outros.
+
+> O projeto consiste na criação de um projeto CRUD com Node.js, com as funções de criar, consultar, editar e deletar filmes dentro de uma lista pré-definida no escopo do projeto. Dentro disso, fizemos toda a configuração do servidor Node, inicialização do express e criação das rotas, sempre utilizando as melhores práticas ensinadas na Trybe.
