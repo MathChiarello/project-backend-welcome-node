@@ -1,4 +1,4 @@
-# Projet Welcome Node - Trybe
+# Project Welcome Node - Trybe
 
 Esse projeto contempla o estudo sobre as dependências listadas abaixo:
 
